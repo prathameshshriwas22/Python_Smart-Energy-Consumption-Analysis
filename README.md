@@ -57,10 +57,4 @@ python energy_analysis.py
 
 ## Author
 
-Prathamesh Shriwas
-
-* Electrical system monitoring
-
-## Author
-
 **PRATHAMESH SHRIWAS**
